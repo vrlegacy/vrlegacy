@@ -1,6 +1,7 @@
 - 👋 Hi, I’m VR
 - 👀 I’m interested in ...Compunters
 - 🌱 I’m currently learning ...Full Stack Web Development and DSAusing Java
+- 
 -Open to work and Collabarate
 
 <!---
